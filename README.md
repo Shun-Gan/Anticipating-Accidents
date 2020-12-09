@@ -5,6 +5,10 @@ cuda=10.0
 numpy=1.16.4
 tensorflow-gpu==1.13.1
 
+#### Run Demo
+```
+python accident.py --model ./demo_model/demo_model
+```
 
 ### Citing
 
